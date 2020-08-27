@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060411209174",
+    "firebase_url": "https://trim-saga-282801.firebaseio.com",
+    "project_id": "trim-saga-282801",
+    "storage_bucket": "trim-saga-282801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060411209174:android:cc34956382dc29ca9de077",
+        "android_client_info": {
+          "package_name": "com.example.a18016236task2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060411209174-lnt2o839na5ijden0dhsb7iejep1vjm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGzweUw8yyhiZ24tUN6eR2TAOKnhK_b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060411209174-lnt2o839na5ijden0dhsb7iejep1vjm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
